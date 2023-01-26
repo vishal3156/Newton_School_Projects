@@ -1,1 +1,1 @@
-# Newton_School_Projects/ Mobile_Navigation
+# Newton_School_Projects/
